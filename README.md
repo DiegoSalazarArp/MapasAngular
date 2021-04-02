@@ -1,27 +1,20 @@
-# Mapas
+# PeliculasApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
-## Development server
+Aplicación de Mapas usando la API de  GCP[GCP](https://cloud.google.com/).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Instalación
 
-## Code scaffolding
+```
+npm install
+```
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Uso
 
-## Build
+- Crear un proyecto en GCP[GCP](https://cloud.google.com/).
+- Habilitar la función del proyecto de Mapas API.
+- Generar una nueva API KEY que la usaremos en el proyecto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+*Nota: La aplicación funciona normalmente, pero Google ha cambiado su servicio con un modo de pago, (El proyecto funciona, solo que aparecerá un mensaje en consola indicando lo mencionando) lo cual queda a modo de desarrollador.
