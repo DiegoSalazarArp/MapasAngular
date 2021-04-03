@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
-Aplicación de Mapas usando la API de  GCP[GCP](https://cloud.google.com/).
+Aplicación de Mapas usando la API de [GCP](https://cloud.google.com/).
 
 ## Instalación
 
